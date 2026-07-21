@@ -1,0 +1,38 @@
+Finding 001
+Weak Authentication Controls
+Severity:
+High
+Description:
+Users authenticate only with passwords.
+Risk:
+Compromised credentials could allow unauthorized access.
+Recommendation:
+Implement MFA and conditional access policies.
+Framework:
+NIST PR.AC
+MITRE:
+T1078 Valid Accounts
+
+
+Finding 002
+No network segmentation
+Risk:
+Attackers can move laterally.
+Recommendation:
+Implement VLAN separation.
+
+
+Finding 003
+No centralized logging
+Risk:
+Security incidents may go undetected.
+Recommendation:
+Deploy SIEM
+
+
+Finding 004
+Insufficient backups
+Risk:
+Ransomware impact.
+Recommendation:
+3-2-1 backup strategy
