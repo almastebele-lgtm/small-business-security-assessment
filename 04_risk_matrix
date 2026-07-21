@@ -1,0 +1,16 @@
+             Impact
+
+          Low   Med   High
+
+High      |     | F1 |
+
+Medium    | F3  | F4 |
+
+Low       |     |     |
+
+
+Finding      |	Likelihood |	Impact | Severity
+
+No MFA	     |  High	     |  High	 |  Critical
+Weak WiFi    |	Medium     |	Medium |  Medium
+Missing logs |	Medium	   |  High	 |  High
